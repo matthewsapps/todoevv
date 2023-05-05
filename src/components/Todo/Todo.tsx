@@ -15,7 +15,7 @@ const Todo = ({ item }: TodoProps) => {
         if (x.element === 'p')
             return <p key={x.text} className='text-center'>{x.text}</p>
         if (x.element === 'button')
-            return <div key={x.text} className='text-center'><Button variant='dark' href={x.href}>{x.text}</Button></div>
+            return <div key={x.text} className='text-center'><Button variant='dark' href={x.href} target='_blank'>{x.text}</Button></div>
         return <>{x.text}</>
     }
 
