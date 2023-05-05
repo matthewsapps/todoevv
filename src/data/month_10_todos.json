@@ -1,0 +1,21 @@
+{
+    "description": "These Todos are only loaded over the month of November",
+    "items": [
+        {
+            "title": "Cheer on the Evansville Thunderbolts",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "The Thunderbolts are proud members of the Southern Professional Hockey League. All home games are played downtown at the Ford Center from October through April. Promotional themed home games, Party Deck packages, Chuck-A-Puck and the thrill of live fast-action ice hockey!"
+                },
+                {
+                    "element": "button",
+                    "text": "Evansville Thunderbolts",
+                    "href": "http://www.evansvillethunderbolts.com/home/"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,288 @@
+{
+    "description": "These Todos are only loaded over the season of Autumn/Fall",
+    "items": [
+        {
+            "title": "Disc Golf",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Grab some discs from one of our sports stores and head to Angel Mounds, Woodmere, Mesker Park, or Eagle Valley!"
+                }
+            ]
+        },
+        {
+            "title": "Road Trip to Garden of the Gods",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Time for a road trip! Take in some scenic Southern Illinois views in Herod, Illinois"
+                }
+            ]
+        },
+        {
+            "title": "Take a Stroll through Downtown Evansville",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "We strive to be the most vibrant urban district in the region, filled with unparalleled opportunities in which to live, work, learn, dine, invest and play among great public spaces, happy people and thriving businesses."
+                },
+                {
+                    "element": "p",
+                    "text": "The trees with their leaves changing make this one of the most beautiful times of year to explore Downtown Evansville"
+                },
+                {
+                    "element": "button",
+                    "text": "Downtown Evansville",
+                    "href": "https://www.downtownevansville.com/"
+                }
+            ]
+        },
+        {
+            "title": "Observe the Wildlife at Eagle Slough",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Eagle Slough is 127 acres of wetlands north of Ellis Park. One hundred species of birds and wildlife have been identified among the forests and lakes. Wildlife viewing platforms and trails with parking are available. A project of the Sycamore Land Trust."
+                },
+                {
+                    "element": "button",
+                    "text": "Eagle Slough",
+                    "href": "https://sycamorelandtrust.org/preserves/eagle-slough-natural-area/"
+                }
+            ]
+        },
+        {
+            "title": "Go For a Walk Through Garvin Park",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Garvin Park is one of Evansville's oldest parks. Purchased in 1915, the 80 acres provides a large lake, swimming pool, playground, tennis and basketball courts. It is located next to historic Bosse Field. Garvin Park is listed on the National Register of Historical Places and is a favorite for public gatherings. During the month of December, the local Easter Seals features the Ritzy Fantasy of Lights for the Christmas season."
+                },
+                {
+                    "element": "button",
+                    "text": "Garvin Park",
+                    "href": "https://www.evansvillegov.org/city/department/division.php?structureid=180"
+                }
+            ]
+        },
+        {
+            "title": "Observe the Wildlife at Howell Wetlands",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "This is one of the largest urban wetlands in Indiana. This rare ecosystem is an appealing year-round location for education and outdoor enjoyment. The 35-acre property includes a variety of habitats. Beavers have made Howell Wetlands their home along with eagles,cranes, migrating birds, coyotes, bobcats, raccoons, and possums."
+                },
+                {
+                    "element": "button",
+                    "text": "Howell Wetlands",
+                    "href": "https://wesselmanwoods.org/natural-resources#howell"
+                }
+            ]
+        },
+        {
+            "title": "Swing, Slide and Play at Mickey's Kingdom",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Mickey's Kingdom was built from the ground up by a dedicated community full of generous volunteers. This 21,000 sq.ft. playground was built for children of ALL abilities ensuring play time for everyone! The park structures were made from recycled milk jugs and have a rubber surface, You will also find the world's tallest solar CommuniTree there."
+                }
+            ]
+        },
+        {
+            "title": "Have a Night Out at NOCO Park",
+            "tags": [],
+            "daysOfWeek": [0, 5, 6],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "NOCO PARK is an outdoor food and bar experience. Located in downtown Evansville, NOCO Park is an empty lot turned into a magical place. We will feature a rotating lineup of food trucks, games, music and art installations. Beautiful indoor and outdoor spaces are available for events and celebrations."
+                },
+                {
+                    "element": "button",
+                    "text": "NOCO Park",
+                    "href": "https://www.nocopark.com/"
+                }
+            ]
+        },
+        {
+            "title": "Walk, Run, or Bike the Pigeon Creek Greenway Passage",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "When completed, the Pigeon Creek Greenway Passage will encompass 42 miles of pedestrian and bicycle trails that encircle the city. Linking communities and providing a natural refuge from busy streets, the Greenway will be a linear park and trail system that ultimately extends into adjacent counties linking with the American Discovery Trail, an interstate system of trails crossing the U.S."
+                },
+                {
+                    "element": "button",
+                    "text": "Pigeon Creek Greenway Passage",
+                    "href": "https://www.walkbikeevv.org/"
+                }
+            ]
+        },
+        {
+            "title": "Go Fishing at River City Catfishing",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "The thrill of reeling in a big one is a feeling unlike any other. Catch a memory that will last a lifetime with River City Catfishing!"
+                },
+                {
+                    "element": "button",
+                    "text": "River City Catfishing",
+                    "href": "https://rivercitycatfishing.com/"
+                }
+            ]
+        },
+        {
+            "title": "Walk or Bike the Riverfront",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "A brick paved walkway above and tiered seating below provide the perfect setting to view the spectacular Ohio River. A boat ramp with parking is available along the lower plaza. See the epic Fireworks on the Ohio show every 4th of July. Framed by the inspiring Four Freedoms Monument and Bally's Casino, the Riverfront invites walkers, runners and cyclists to enjoy the lovely Front Door to our city."
+                }
+            ]
+        },
+        {
+            "title": "Paddle Pigeon Creek from the Canoe Launch",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Pigeon Creek meanders for miles through Evansville's northeast side to its juncture with the Ohio River near downtown.  Located on Green River Road one quarter of a mile north from Lynch Road, the Rotary Kayak/Canoe Launch allows access to Pigeon Creek. It offers paddlers the opportunity to enjoy Evansville's 6-mile “blue trail.”"
+                }
+            ]
+        },
+        {
+            "title": "Grab a Board at Sunset Skatepark",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "The Sunset Skatepark will be an accessible, ALL-WHEEL park for everything from wheelchairs, skateboards, scooters, bikes, rollerskates, and rollerblades. With 27,000 sqft of skate-scape, this is Indiana's largest skate park."
+                },
+                {
+                    "element": "button",
+                    "text": "Sunset Skatepark",
+                    "href": "https://www.skatesunset.com/"
+                }
+            ]
+        },
+        {
+            "title": "Go for a Bike Ride with the Upgrade Bike Share",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Easily rent a bike and pickup and dropoff at multiple locations around the city"
+                },
+                {
+                    "element": "button",
+                    "text": "Upgrade Bike Share",
+                    "href": "https://www.walkbikeevv.org/bike-share"
+                }
+            ]
+        },
+        {
+            "title": "Explore the USI Trails",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "USI boasts many miles of multi-use trails on its scenic 1,400-acre campus open to the University community and to the public. The most recent trail is the three-mile paved USI-Burdette Trail. "
+                },
+                {
+                    "element": "button",
+                    "text": "USI Trails",
+                    "href": "https://www.usi.edu/trails"
+                }
+            ]
+        },
+        {
+            "title": "Vist the Vanderburgh 4-H Center",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "200 acres of rolling hllls and multi-use buildings including Audiotorium, Activities Center, Banquet Hall, Expo Hall, Conference Room, Grandstand arena and more."
+                },
+                {
+                    "element": "button",
+                    "text": "Vanderburgh 4-H Center",
+                    "href": "https://vanderburgh4hcenter.com/"
+                }
+            ]
+        },
+        {
+            "title": "Practice your Swing at Walther's Golf Range",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Artificial and natural grass practice tees, a pitching range with sand trap, heated, covered tees in winter and air conditioned tees for summer. Professional lessons also provided by appointment.  "
+                },
+                {
+                    "element": "button",
+                    "text": "Walther's Golf Range",
+                    "href": "http://walthersgolf.com/driving-range/"
+                }
+            ]
+        },
+        {
+            "title": "Explore Wesselman Park",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Adjacent to the Nature Preserve, Wesselman Park features a Par 3 golf course, tennis courts, sand volleyball courts, softball fields, a playground and more!"
+                },
+                {
+                    "element": "button",
+                    "text": "Wesselman Park",
+                    "href": "https://wesselmanwoods.org/"
+                }
+            ]
+        },
+        {
+            "title": "Explore the Wildlife of Wesselman Woods",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Wesselman Woods is the largest urban old-growth forest in the United States. We protect the cultural and ecological integrity of this 200-acre forest while providing environmental education, anumal encounters and outdoor recreation experiences to enrich the lives of everyone. The nature playscape offers five acres of unstructured play and exploration including a bird sanctuary. Eco-Access Initiative invites you to enjoy over 4 miles of trails, the playscape and the bird sanctuary at no charge on Family Free Days, the last Saturday of each month in 2023."
+                },
+                {
+                    "element": "button",
+                    "text": "Wesselman Woods",
+                    "href": "https://wesselmanwoods.org"
+                }
+            ]
+        }
+    ]
+}

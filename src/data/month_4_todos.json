@@ -1,0 +1,21 @@
+{
+    "description": "These Todos are only loaded over the month of May",
+    "items": [
+        {
+            "title": "Have a Ball at Historic Bosse Field",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Home to the Evansville Otters of the Independent Frontier League. Bosse Field opened in 1915 and was the first municipally owned sports facility in the United States. Only Boston's Fenway Park (1912) and Chicago's Wrigley Field (1914) are older than Evansville's Bosse Field. It is the site for the filming of \"A League of Their Own\" in 1992.  Whether you're a sports fan or a history buff, this 100-year-old stadium for America's favorite pastime is a must see! "
+                },
+                {
+                    "element": "button",
+                    "text": "Evansville Otters",
+                    "href": "https://www.evansvilleotters.com/"
+                }
+            ]
+        }
+    ]
+}

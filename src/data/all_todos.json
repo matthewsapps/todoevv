@@ -1,0 +1,764 @@
+{
+    "description": "These Todos are active all year long, no matter the day of week, or other variables. They'll always be loaded into the application.",
+    "items": [
+        {
+            "title": "Grab a Drink & Become a Pinball Wizard at Arcademie",
+            "tags": [],
+            "daysOfWeek": [2, 3, 4, 5, 6],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Put a new, antiquated spin on your game nights at Arcademie. Because honestly, they just don't make arcade games like they used to. With a dozen draughts and classic drinks to boot, you can master the art of the flipper on our timeless antique-style machines."
+                },
+                {
+                    "element": "button",
+                    "text": "Arcademie",
+                    "href": "https://arcademiebar.com/"
+                }
+            ]
+        },
+        {
+            "title": "Admire Local Artwork at ARTSWIN",
+            "tags": [],
+            "daysOfWeek": [2, 3, 4, 5, 6],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "The Arts Council of Southwestern Indiana cultivates regional artists with exhibits, art-for-sale and performance art in a beautiful setting."
+                },
+                {
+                    "element": "button",
+                    "text": "ARTSWIN",
+                    "href": "https://www.artswin.org/"
+                }
+            ]
+        },
+        {
+            "title": "Get Lucky at Bally's Casino",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Bally’s Riverfront Event Center boasts spectacular riverfront views. Located on the Ohio River, this entertainment complex has two hotels, 24-hour casino, four restaurants, two bars, free attached parking, the Executive Conference Center."
+                },
+                {
+                    "element": "button",
+                    "text": "Bally's Casino Evansville",
+                    "href": "https://ballysevansville.com/"
+                }
+            ]
+        },
+        {
+            "title": "Practice Your Swing at Birdies",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Featuring sports simulators for golf, baseball, soccer and football, plus axe throwing. There is a full bar with food available via the Rooftop. BIRDIES! is family friendly."
+                },
+                {
+                    "element": "button",
+                    "text": "Birdies",
+                    "href": "https://www.birdiesdowntownevv.com/"
+                }
+            ]
+        },
+        {
+            "title": "Practice Your Swing at Club 18",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Club 18 is the Tri-State’s premier indoor golfing facility featuring 5 Trackman Virtual Golf simulators. It’s the perfect activity for any age, skill level, or time of year. It’s drinks with your best buddies, a Sunday tee-time, a social sports league with co-workers, and a girls night out- all under one roof."
+                },
+                {
+                    "element": "button",
+                    "text": "Club 18",
+                    "href": "https://www.club18golf.com/"
+                }
+            ]
+        },
+        {
+            "title": "Explore the Children's Museum of Evansville",
+            "tags": [],
+            "daysOfWeek": [0, 2, 3, 4, 5, 6],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Housed in an historic building on 5th street Downtown, “cMoe” features three floors of engaging exhibits to inspire play based learning."
+                },
+                {
+                    "element": "button",
+                    "text": "Children's Museum of Evansville",
+                    "href": "https://cmoekids.org/"
+                }
+            ]
+        },
+        {
+            "title": "Go for a Swim at Deaconess Aquatic Center",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Premiere aquatics facility including a 50m competition pool & diving area, a separate recreation pool and outdoor splash pad."
+                },
+                {
+                    "element": "button",
+                    "text": "Deaconess Aquatic Center",
+                    "href": "https://swimevansville.org/"
+                }
+            ]
+        },
+        {
+            "title": "Explore Deep Blue Indoor Play",
+            "tags": [],
+            "daysOfWeek": [0, 3, 4, 5, 6],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "An indoor playground for adventure-goers of all ages. Party, play and climb under the sea with us!"
+                },
+                {
+                    "element": "button",
+                    "text": "Deep Blue Indoor Play",
+                    "href": "https://www.deepblueevansville.com/"
+                }
+            ]
+        },
+        {
+            "title": "Update your Wardrobe at Eastland Mall",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Eastland Mall is the Tri-State's leading shopping destination with a vast array of retailers and a variety dining options. Find stores like Dillard's, Macy's, TORRID, Dry Goods, Sephora, Carter's, Skillz VR Arcade and so much more. Local and national dining options include Pier 17 Cajun, The Diner by Mele's, Olive Garden and BJ's Brewhouse, Eastland Mall truly is a shopper's paradise."
+                },
+                {
+                    "element": "button",
+                    "text": "Eastland Mall",
+                    "href": "https://www.shopeastlandmall.com/"
+                }
+            ]
+        },
+        {
+            "title": "Make an Escape at Escape Evansville",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Get locked in a themed brain teaser Escape Room where you and your team will need to solve puzzles, find clues and crack codes in order to escape. Also featuring The Perge Rage Room and Splatter Paint Room!"
+                },
+                {
+                    "element": "button",
+                    "text": "Escape Evansville",
+                    "href": "http://www.escapeevansville.com/"
+                }
+            ]
+        },
+        {
+            "title": "Explore the Evansville African American Museum",
+            "tags": [],
+            "daysOfWeek": [2, 3, 4, 5, 6],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Located in one of the nation's first housing projects built in 1938 under President Roosevelt's New Deal Program, Lincoln Gardens was an independent, thriving community with black doctors, lawyers, business owners and educators. The EAAM celebrates the struggles, successes and experiences of the African American culture in Evansville."
+                },
+                {
+                    "element": "button",
+                    "text": "Evansville African American Museum",
+                    "href": "https://evvaam.org/"
+                }
+            ]
+        },
+        {
+            "title": "See a Show at the Evansville Civic Theatre",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Evansville Civic Theatre is a historical non-profit community theatre committed to presenting high-quality theatrical productions for nearly a century!"
+                },
+                {
+                    "element": "button",
+                    "text": "Evansville Civic Theatre",
+                    "href": "https://www.evvcivic.org/home"
+                }
+            ]
+        },
+        {
+            "title": "Get Lost in an Exhibit at the Evansville Museum",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "The Evansville Museum of Arts, History & Science houses a permanent collection of more than 30,000 objects, including fine and decorative art, as well as historic, anthropological, and natural history artifacts. Over twenty temporary, regional and international exhibitions are displayed each year in four galleries."
+                },
+                {
+                    "element": "p",
+                    "text": "The Koch Immersive Theater houses a 40-foot diameter domed screen with 360-degree digital projection featuring astronomy and science programming."
+                },
+                {
+                    "element": "p",
+                    "text": "Evansville Museum Transportation Center (EMTRAC) featuring transportation artifacts from the late 19th through the mid-20th centuries. On exhibit is a three-car train. The museum is home to a model train diorama of Evansville."
+                },
+                {
+                    "element": "button",
+                    "text": "Evansville Museum",
+                    "href": "https://emuseum.org/"
+                }
+            ]
+        },
+        {
+            "title": "Experience the Evansville Philharmonic Orchestra",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Since 1939, The Evansville Philharmonic Orchestra has been the largest arts institution in the Tri-State performing professional symphonic performances."
+                },
+                {
+                    "element": "button",
+                    "text": "Evansville Philharmonic Orchestra",
+                    "href": "http://www.evansvillephilharmonic.org/"
+                }
+            ]
+        },
+        {
+            "title": "Take a Tour of the Evansville Wartime Museum",
+            "tags": [],
+            "daysOfWeek": [0, 4, 5, 6],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "During WWII, our nation's military went into battle with airplanes, ships, tanks and munitions manufactured here in Evansville. The museum is dedicated to celebrating the stories and achievements of those who were there along with the memorabilia they collect. Come see the WWII Evansville-built P-47, \"Hoosier Spirit II\"."
+                },
+                {
+                    "element": "button",
+                    "text": "Evansville Wartime Museum",
+                    "href": "https://evansvillewartimemuseum.org/"
+                }
+            ]
+        },
+        {
+            "title": "Visit Haynie's Corner Arts District",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "A creative community of 4 neighborhoods who's streets come together at a fountain which stands as a symbol for advocacy, preservation, and regeneration for the future."
+                },
+                {
+                    "element": "p",
+                    "text": "Experience the variety of restaurants and bars in the neighborhood!"
+                },
+                {
+                    "element": "button",
+                    "text": "Haynie's Corner",
+                    "href": "http://hayniescorner.com/"
+                }
+            ]
+        },
+        {
+            "title": "Level Up at High Score Player Two",
+            "tags": [],
+            "daysOfWeek": [0, 3, 4, 5, 6],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "An all ages arcade inspired by the games we came to love in the 70's, 80's and 90's. Pinball. Arcade. Consoles. Affordable private party rates available for groups large and small."
+                },
+                {
+                    "element": "button",
+                    "text": "High Score Player Two",
+                    "href": "https://www.highscoretwo.com/"
+                }
+            ]
+        },
+        {
+            "title": "Grab a Drink & Become a Pinball Wizard at High Score Saloon",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Evansville's first 21+ arcade offering a wide variety of craft beers, cocktails, ten pinballs, twenty-five arcades and four console stations. The games and drink selections are forever rotating to keep the fun as fresh as the pours."
+                },
+                {
+                    "element": "button",
+                    "text": "High Score Saloon",
+                    "href": "http://www.highscoresaloon.com/"
+                }
+            ]
+        },
+        {
+            "title": "Grab a Board at Killer Skate Park & Shop",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "KILLER Skate Park & Shop is an indoor skateboard park & core skate shop. Killer is dedicated to the idea that skateboarding should be inclusive. Our Shop & Park is a haven for anyone that rides a board, because you're all one of us."
+                },
+                {
+                    "element": "button",
+                    "text": "Killer Skate Park & Shop",
+                    "href": "https://www.killerskatepark.com/"
+                }
+            ]
+        },
+        {
+            "title": "Take Aim at LawMan Tactical",
+            "tags": [],
+            "daysOfWeek": [0, 2, 3, 4, 5, 6],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "LawMan Tactical's Guntry Club is the ultimate training facility where anyone can comfortably train, no matter their skill or knowledge level. A full-service facility featuring LawMan Tactical Coffee Lab (formerly known as White Swan), 10-8 Cafe, firing range and gym. Conveniently located right off highway 41 behind the BMV."
+                },
+                {
+                    "element": "button",
+                    "text": "LawMan Tactical",
+                    "href": "https://lawmantactical.com/"
+                }
+            ]
+        },
+        {
+            "title": "Board the LST 325",
+            "tags": [],
+            "daysOfWeek": [0, 2, 3, 4, 5, 6],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Called the ship that won the war by Churchill, the LSTs were essential in sea-to-land invasions and many were built in Evansville, Indiana. This floating piece of history was on site in Normandy on D-Day. She is also the \"Last of the Class,\" meaning she is the only operational LST in existence. Tours are led by dedicated and learned crewmembers, some who served on LSTs."
+                },
+                {
+                    "element": "button",
+                    "text": "LST 325",
+                    "href": "http://www.lstmemorial.org"
+                }
+            ]
+        },
+        {
+            "title": "Visit the Animals at Mesker Park Zoo & Botanic Garden",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "WE HAVE PENGUINS! Extending over 45 acres, historic Mesker Park Zoo is home to more than 700 animals and is open 365 days a year! Pathways bloom and grow with local and exotic trees and plants. The crown jewel of the zoo is Amazonia- a walk through the wild expanse of the South American Rainforest. Encounter hundreds of animals representing species from around the globe."
+                },
+                {
+                    "element": "button",
+                    "text": "Mesker Park Zoo & Botanic Garden",
+                    "href": "http://www.meskerparkzoo.com"
+                }
+            ]
+        },
+        {
+            "title": "Have a Photoshoot at the Old Courthouse",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "The Old Courthouse is one of the finest examples of Neo-Baroque architecture in the United States. Elegant, intricate sculptures carved from Indiana limestone sit above each entrance. Lavish marble floors and walls are accented by black slate stairs and wrought iron railings leading to the top story rotunda. The Old Courthouse was built in the 1890s and remains one of Downtown's premier architectural showplaces."
+                },
+                {
+                    "element": "button",
+                    "text": "Old Courthouse",
+                    "href": "https://oldvanderburghcourthouse.com/home-2/"
+                }
+            ]
+        },
+        {
+            "title": "See a Show at Aiken Theatre",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "The Old National Events Plaza is a premier, full service convention facility and the home of the Aiken Theatre, a 2,500 seat concert auditorium."
+                },
+                {
+                    "element": "button",
+                    "text": "Old National Events Plaza - Aiken Theatre",
+                    "href": "http://www.oldnationaleventsplaza.com/Default.aspx"
+                }
+            ]
+        },
+        {
+            "title": "Have a Photoshoot at the Old Post Office",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text":"Built in 1869, the Old Post Office and Customs House is a classic example of the Richardsonian Romanesque architectural style featuring round arches over window and door openings, extensive use of stone masonry and towers. One of Evansville's most respected landmarks is now a gorgeous venue that is perfect for hosting Rehearsal Dinners, Holiday Parties, Corporate Entertaining, or Wedding Receptions."
+                },
+                {
+                    "element": "button",
+                    "text": "Old Post Office and Customs House",
+                    "href": "http://www.oldpostofficeplaza.com/"
+                }
+            ]
+        },
+        {
+            "title": "Practice your Throw at Plaid & Timber Axe Throwing Company",
+            "tags": [],
+            "daysOfWeek": [0, 3, 4, 5, 6],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Come join the axe throwing fun at Plaid & Timber today. 18+"
+                },
+                {
+                    "element": "button",
+                    "text": "Plaid & Timber Axe Throwing Company",
+                    "href": "https://plaidandtimber.com/"
+                }
+            ]
+        },
+        {
+            "title": "Vist the Reitz Home Museum",
+            "tags": [],
+            "daysOfWeek": [2, 3, 4, 5, 6],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Return to the days of Victorian elegance and grandeur by touring the historic Reitz Home Museum. Described as one of the country's finest examples of French Second Empire architecture, the Reitz Home Museum features period furniture, silk damask-covered walls, hand-painted ceilings, delicately molded plaster friezes, French gilt chandeliers and intricately patterned wood parquet floors. Call for hours of operation, open Tuesday - Sunday, closed Monday. "
+                },
+                {
+                    "element": "button",
+                    "text": "Reitz Home Museum",
+                    "href": "http://www.reitzhome.com"
+                }
+            ]
+        },
+        {
+            "title": "Enjoy Blasts from the Past at Secret Headquarters",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "From vintage toys and comics to a retro 80s video arcade. Classic games from the 80s and 90s are accessed by the hour, so leave your quarters at home. Arcade cabinets are changed out every couple of months!  A Bicycle Friendly Business "
+                },
+                {
+                    "element": "button",
+                    "text": "Secret Headquarters",
+                    "href": "https://www.facebook.com/thesecretheadquarters"
+                }
+            ]
+        },
+        {
+            "title": "Have a Photoshoot at Self.e Alley",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Self.e Alley celebrates the Evansville community through mural art, boosting pride, and connecting with the 'e is for everyone' regional brand. Come take a Self.e and make a memory!"
+                },
+                {
+                    "element": "button",
+                    "text": "Self.e Alley",
+                    "href": "https://self-e-alley.business.site/"
+                }
+            ]
+        },
+        {
+            "title": "See a Movie at Showplace Cinemas",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "East 20, and North 9 locations, IMAX Theatre, and Royal Suites."
+                },
+                {
+                    "element": "button",
+                    "text": "Showplace Cinemas",
+                    "href": "https://www.showplacecinemas.com"
+                }
+            ]
+        },
+        {
+            "title": "Lace your Skates at Skate World",
+            "tags": [],
+            "daysOfWeek": [0, 1, 3, 4, 5, 6],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Skate World - where the good times roll since 1999! Roller skating doesn't get any better than on a brand-new floor!  Roll on in for concessions, arcade, skates and accessories, custom skate advice, birthday parties, private parties and corporate events."
+                },
+                {
+                    "element": "button",
+                    "text": "Skate World",
+                    "href": "http://www.skateworldin.com/"
+                }
+            ]
+        },
+        {
+            "title": "Jump Around at Sky Zone",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Sky Zone is the world's first indoor trampoline park dedicated to the pure joy of flying. Offering Open Jump, Ultimate Dodgeball, Foam Zone, Sky Slam and Skyrobics. Sky Zone is a great place to take your family or host a party or group event.  "
+                },
+                {
+                    "element": "button",
+                    "text": "Sky Zone",
+                    "href": "http://www.skyzone.com/evansville"
+                }
+            ]
+        },
+        {
+            "title": "Have a Drink at Someplace Else Nightclub",
+            "tags": [],
+            "daysOfWeek": [0, 4, 5, 6],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "We are the Tri-State's longest running Alternative Nightclub, providing Karaoke and Live Entertainment every week for 30 years!"
+                },
+                {
+                    "element": "button",
+                    "text": "Someplace Else Nightclub",
+                    "href": "https://www.facebook.com/someplaceelse.nightclub"
+                }
+            ]
+        },
+        {
+            "title": "Catch a Show at STAGEtwo at 321",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "STAGEtwo is a not-for-profit theatre arts organization based in Evansville, Indiana that promotes local productions and community service. Theater seats 50-100."
+                },
+                {
+                    "element": "button",
+                    "text": "STAGEtwo at 321",
+                    "href": "https://www.stagetwoevansville.org/"
+                }
+            ]
+        },
+        {
+            "title": "Lace your Skates at Swonder Ice Arena",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "The new facility opened in October of 2002, Swonder Ice Arena is a skater's dream come true. Two regulation-size rinks suit hockey players and figure skaters. Inliners and skateboarders can choose between an indoor or outdoor skate park. State-of-the-art sound and light show designed with the technology used at the 2002 Olympics heats up the action when the skaters take the ice. The University of Southern Indiana and local high school hockey teams compete weekly. Seating for 1,500 spectators available."
+                },
+                {
+                    "element": "button",
+                    "text": "Swonder Ice Arena",
+                    "href": "http://www.skateswonder.com/"
+                }
+            ]
+        },
+        {
+            "title": "Practice your Swing at Tee Time Golf Complex",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Tee Time Golf Course offers golfers a quick tune-up. Nestled in Southern Indiana's rolling terrain and surrounding a small lake are nine challenging par 3 golf holes. Our course also features bent grass greens. Tee times are not necessary."
+                },
+                {
+                    "element": "button",
+                    "text": "Tee Time Golf Complex",
+                    "href": "http://www.teetimegolfcomplex.com"
+                }
+            ]
+        },
+        {
+            "title": "See a Show at The Ford Center",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "The Ford Center is a beautifully designed multi-purpose 11,000-seat arena. It is the region's center for sports and entertainment. The 290,000 square foot facility is home of the NCAA Division I University of Evansville Aces Men's basketball and the SPHL Evansville Thunderbolts. The arena floor has over 20,000 square feet of usable space and can be modified for basketball, hockey, concerts, conventions, expos, rodeos, theater, and a variety of other events."
+                },
+                {
+                    "element": "button",
+                    "text": "The Ford Center",
+                    "href": "http://thefordcenter.com/"
+                }
+            ]
+        },
+        {
+            "title": "Jump Around at The Inflatable Fun Factory",
+            "tags": [],
+            "daysOfWeek": [0, 1, 4, 5, 6],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "The Inflatable Fun Factory is the area's premiere family entertainment center! Featuring the largest indoor inflatable arenas in the tri-state area. "
+                },
+                {
+                    "element": "button",
+                    "text": "The Inflatable Fun Factory",
+                    "href": "http://www.theinflatablefunfactory.com/"
+                }
+            ]
+        },
+        {
+            "title": "Tour the Toyota Indiana Experience",
+            "tags": [],
+            "daysOfWeek": [2, 3, 4],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Join us for a free, tram-driven tour through the birthplace of the Toyota Highlander, Highlander Hybrid, and all-hybrid Sienna to see how people and machines work together to build ever-better vehicles. The tram tour takes around 45 minutes. Explore the interactive gallery before and after your tour. Children 5 and up may ride the tram."
+                },
+                {
+                    "element": "button",
+                    "text": "Toyota Indiana Experience",
+                    "href": "https://www.tourtoyota.com/#/indiana"
+                }
+            ]
+        },
+        {
+            "title": "See a Show at the University of Evansville Theatre",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "University of Evansville Department of Theatre."
+                },
+                {
+                    "element": "button",
+                    "text": "University of Evansville Theatre",
+                    "href": "https://www.evansville.edu/majors/theatre/current.cfm"
+                }
+            ]
+        },
+        {
+            "title": "Reach the Summit at Vertical eXcape Climbing Center",
+            "tags": [],
+            "daysOfWeek": [1, 2, 3, 4, 5, 6],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Vertical eXcape Climbing Center features over 12,000 square feet of textured climbing surface with heights up to 32 feet, over 40 climbing stations, huge bouldering area, and a great party area just for your group. With an interesting array of slabs, vertical sections, and overhangs, Vertical eXcape is sure to please everyone from the first time adventure seeker to the advanced climber."
+                },
+                {
+                    "element": "button",
+                    "text": "Vertical eXcape Climbing Center",
+                    "href": "http://evansville.verticalexcape.com/"
+                }
+            ]
+        },
+        {
+            "title": "See a Show at the Victory Theatre",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "The Victory Theatre is a 1,950-seat venue managed by VenuWorks. The theatre recently underwent a $20 million renovation evoking nostalgic memories of the 1920's. In addition to being the home of the Evansville Philharmonic Orchestra, the Victory Theatre hosts a wide variety of concerts, Broadway shows, and children's programming. The Victory Theatre is located on Evansville's beautiful downtown cobblestone walkway."
+                },
+                {
+                    "element": "button",
+                    "text": "Victory Theatre",
+                    "href": "http://www.victorytheatre.com"
+                }
+            ]
+        },
+        {
+            "title": "Game On at VR Skillz Arcade",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "See what Virtual Reality has to offer with our HTC Vive Pro 10x10 room-scale stations, motion simulators and our custom driving simulators!"
+                },
+                {
+                    "element": "button",
+                    "text": "VR Skillz Arcade",
+                    "href": "http://skillzvr.com/"
+                }
+            ]
+        },
+        {
+            "title": "Practice your Putts at Walther's Golf & Fun Center",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "36-holes of tropical mini-golf, Lazer Tag, world-class arcade and Monkey Mountain climber."
+                },
+                {
+                    "element": "button",
+                    "text": "Walther's Golf & Fun Center",
+                    "href": "http://www.golfnfun.com"
+                }
+            ]
+        },
+        {
+            "title": "Have a Night Out on West Franklin Street",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "65 stores and restaurants including Gerst Haus, Lamasco Bar and Grill, Maidens Brewery, Smitty's Italian Steakhouse, Thyme in the Kitchen, Paul's Menswear and more! Historic Franklin Street is home to many great events including Mardi Gras Franklin Crawl and The West Side Nut Club Fall Festival, one of the largest street festivals in North America."
+                },
+                {
+                    "element": "button",
+                    "text": "West Franklin Street",
+                    "href": "http://franklinstreeteventsassociation.com/"
+                }
+            ]
+        },
+        {
+            "title": "Visit the Willard Carpenter House",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Completed in 1849, Willard Carpenter House is one of the finest examples of pure Georgian architecture in this area. Built of brick and stone, it features a balanced facade and a classic facade over the entrance door. Restored in 1974 to as close to its original condition as possible, the home stands as a memorial to one of Evansville's most aggressive and influential pioneers."
+                }
+            ]
+        },
+        {
+            "title": "Find the Grey Lady at Willard Library",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "Willard Library is the oldest operating library in the state of Indiana. It was opened in 1885 under the directive to be a public library for the use of the people of all classes, races, and sexes free of charge forever. The Special Collections department houses one of the most extensive collections for genealogy study in the Midwest. Sneak a peek at our famous Grey Lady with 24-hour viewing available on the Ghostcam on the library's website. "
+                },
+                {
+                    "element": "button",
+                    "text": "Willard Library",
+                    "href": "http://www.willard.lib.in.us"
+                }
+            ]
+        }
+    ]
+}

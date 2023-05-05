@@ -1,0 +1,25 @@
+{
+    "description": "These Todos are only loaded over the season of Winter",
+    "items": [
+        {
+            "title": "Take a Stroll through Downtown Evansville",
+            "tags": [],
+            "daysOfWeek": [],
+            "description": [
+                {
+                    "element": "p",
+                    "text": "We strive to be the most vibrant urban district in the region, filled with unparalleled opportunities in which to live, work, learn, dine, invest and play among great public spaces, happy people and thriving businesses."
+                },
+                {
+                    "element": "p",
+                    "text": "Look out for the winter photo ops located along Main Street!"
+                },
+                {
+                    "element": "button",
+                    "text": "Downtown Evansville",
+                    "href": "https://www.downtownevansville.com/"
+                }
+            ]
+        }
+    ]
+}

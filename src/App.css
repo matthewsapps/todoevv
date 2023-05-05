@@ -1,0 +1,17 @@
+:root {
+    --danger: #e63946;
+    --cream: #f1faee;
+    --primary: #a8dadc;
+    --secondary: #457b9d;
+    --dark: #1d3557;
+}
+
+body {
+    background-color: var(--cream);
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
